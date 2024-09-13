@@ -1,0 +1,5 @@
+{
+    "baseURL":"",
+    "storeURL":"",
+    "merchantURL":"https://account.test.unistore.tech/api"
+}
